@@ -1,0 +1,11 @@
+ident,type,name,municipality,latitude_deg,longitude_deg,iso_country
+KVYS,medium_airport,Illinois Valley Regional-Walter A Duncan Field,Peru,41.3507,-89.1531,US
+KPIA,medium_airport,General Downing - Peoria International Airport,Peoria,40.6642,-89.6933,US
+KBMI,medium_airport,Bloomington/Normal Airport,Bloomington,40.4771,-88.9159,US
+KGBG,small_airport,Galesburg Municipal Airport,Galesburg,40.9375,-90.4311,US
+KSQI,medium_airport,Whiteside County Airport - Joseph H Bittorf Field,Sterling/Rock Falls,41.7445,-89.6753,US
+KC75,small_airport,Lacon Municipal Airport,Lacon,41.0195,-89.3867,US
+KC09,small_airport,Morris Municipal Airport - James R Washburn Field,Morris,41.4285,-88.4185,US
+KDKB,small_airport,DeKalb Taylor Municipal Airport,DeKalb,41.9333,-88.7053,US
+KARR,medium_airport,Aurora Municipal Airport,Aurora,41.7719,-88.4756,US
+KCUL,small_airport,Carmi Municipal Airport,Carmi,38.0891,-88.1206,US
